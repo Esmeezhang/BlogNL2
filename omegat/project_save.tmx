@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>2017年1月14日【龙泉动漫】1月8日，以“心艺术 心文化”为主题的龙泉动漫中心2016年年终总结暨五周年感恩联欢会隆重举办，贤帆法师、嘉宾、义工及家属一百多人参加活动。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fyzx-排版" changedate="20170120T095423Z" creationid="fyzx-排版" creationdate="20170120T095423Z">
+        <seg>14 januari 2017 【Longquan Animatie】 Op 8 januari vierde het animatiecentrum van de Longquan Tempe haar vijf jaar bestaaan. Op die dag werd er teruggekeken op het werk van 2016 met als thema 'kunst van het hart, cultuur van het hart'. Ruim 100 mensen namen deel aan de evenementen, waar onder de eerbiedwaardige Xian Fan, gasten van de tempel, vrijwilligers en hun vrienden en familie. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>动漫中心自2011年11月16日成立至今，在学诚大和尚指导下，在社会各界人士的帮助和义工们的护持下，贤二系列动漫作品逐步走入了更多人的视野，得到更多人的喜爱。</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="fyzx-排版" changedate="20170120T095435Z" creationid="fyzx-排版" creationdate="20170120T095435Z">
+        <seg> Het animatiecentrum is opgericht op 16 november 2017. Onder leiding van de eerbiedwaardige meest Xue Cheng, bracht het centrum de animatieserie Xian'er de wereld in. Dankzij de ondersteuning van de partners van het centrum en de koestering  vrijwilligers, werd het animatiefiguur Xian'er steeds populairder.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
