@@ -1,4 +1,4 @@
-龙泉生活	Leven Op de Tempel
+﻿龙泉生活	Leven Op de Tempel
 龙泉寺	Longquan Tempel
 僧俗二众	Sangha en volgelingen
 法会	Dharma Bijeenkomst
@@ -18,7 +18,7 @@
 龙泉动漫中心	het animatiecentrum van de Longquan Tempel
 学诚大和尚	 de eerbiedwaardige meester Xue Cheng	Ven. Master Xuecheng
 护持	koesteren	enshrine, shield and sustain
-仁爱慈善	Ren Ai Liefdadig Fonds	Ren Ai Charity Foundation
+仁爱慈善	Ren Ai Liefdadigheidsfonds	Ren Ai Charity Foundation
 龙泉学修	Studie en Oefening op de Tempel
 开示	Dharma toespraak	Dharma talk; instruction
 教化部	het onderwijscentrum	Teaching Department
